@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run new_york uber_picking_app.py
+web: sh setup.sh && streamlit run new_york_uber_picking_app.py
